@@ -1,0 +1,38 @@
+2025-12-17 14:51:54 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 14:51:54 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 14:51:56 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 14:51:57 [main] INFO  com.utilities.MyListener - Test Case Failed !testLinkLoginEnabled
+2025-12-17 14:51:58 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
+2025-12-17 14:56:56 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 14:56:56 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 14:56:59 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 14:57:00 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginEnabled
+2025-12-17 14:57:01 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
+2025-12-17 15:31:09 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 15:31:09 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 15:31:11 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 15:31:12 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginEnabled
+2025-12-17 15:31:14 [main] INFO  com.utilities.MyListener - Test Case Execution Started testRegistervalid
+2025-12-17 15:31:16 [main] INFO  com.utilities.MyListener - Test Case Failed !testRegistervalid
+2025-12-17 15:31:17 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
+2025-12-17 15:32:01 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 15:32:01 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 15:32:03 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 15:32:04 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginEnabled
+2025-12-17 15:32:05 [main] INFO  com.utilities.MyListener - Test Case Execution Started testRegistervalid
+2025-12-17 15:32:08 [main] INFO  com.utilities.MyListener - Test Case Failed !testRegistervalid
+2025-12-17 15:32:09 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
+2025-12-17 15:33:22 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 15:33:22 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 15:33:24 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 15:33:25 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginEnabled
+2025-12-17 15:33:27 [main] INFO  com.utilities.MyListener - Test Case Execution Started testRegistervalid
+2025-12-17 15:33:30 [main] INFO  com.utilities.MyListener - Test Case Failed !testRegistervalid
+2025-12-17 15:33:30 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
+2025-12-17 15:35:25 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginDisplay
+2025-12-17 15:35:25 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginDisplay
+2025-12-17 15:35:27 [main] INFO  com.utilities.MyListener - Test Case Execution Started testLinkLoginEnabled
+2025-12-17 15:35:28 [main] INFO  com.utilities.MyListener - Test Case Pass testLinkLoginEnabled
+2025-12-17 15:35:29 [main] INFO  com.utilities.MyListener - Test Case Execution Started testRegistervalid
+2025-12-17 15:35:33 [main] INFO  com.utilities.MyListener - Test Case Failed !testRegistervalid
+2025-12-17 15:35:34 [main] INFO  com.utilities.MyListener - All Test Case Executed Successfully 
